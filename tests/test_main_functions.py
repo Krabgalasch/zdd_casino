@@ -1,4 +1,4 @@
-from main_functions import count_cards
+from zdd_casino.main_functions import count_cards
 
 
 def test_count_cards_no_aces():
